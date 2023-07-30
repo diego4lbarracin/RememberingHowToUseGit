@@ -18,5 +18,5 @@ int summofTwoNumbers(int number1, int number2){
 }
 
 int subtractionOfTwoNumbers(int number1, int number2){
-    
+    return number1-number2;
 }
